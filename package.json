@@ -98,7 +98,7 @@
 		"@wordpress/data": "9.5.2",
 		"@wordpress/data-controls": "3.4.2",
 		"@wordpress/date": "4.35.1",
-		"@wordpress/deprecated": "3.35.1",
+		"@wordpress/deprecated": "3.36.0",
 		"@wordpress/dom": "3.35.1",
 		"@wordpress/dom-ready": "3.35.1",
 		"@wordpress/edit-post": "7.12.6",
