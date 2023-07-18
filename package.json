@@ -110,7 +110,7 @@
 		"@wordpress/format-library": "4.12.4",
 		"@wordpress/hooks": "3.35.1",
 		"@wordpress/html-entities": "3.35.1",
-		"@wordpress/i18n": "4.35.1",
+		"@wordpress/i18n": "4.36.0",
 		"@wordpress/icons": "9.26.2",
 		"@wordpress/interface": "5.12.4",
 		"@wordpress/is-shallow-equal": "4.35.1",
