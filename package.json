@@ -127,7 +127,7 @@
 		"@wordpress/priority-queue": "2.35.1",
 		"@wordpress/private-apis": "0.17.1",
 		"@wordpress/redux-routine": "4.35.1",
-		"@wordpress/reusable-blocks": "4.12.4",
+		"@wordpress/reusable-blocks": "4.17.1",
 		"@wordpress/rich-text": "6.12.2",
 		"@wordpress/router": "0.4.1",
 		"@wordpress/server-side-render": "4.12.4",
