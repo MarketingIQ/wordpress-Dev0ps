@@ -93,7 +93,7 @@
 		"@wordpress/components": "25.1.4",
 		"@wordpress/compose": "6.12.1",
 		"@wordpress/core-commands": "0.6.0",
-		"@wordpress/core-data": "6.12.4",
+		"@wordpress/core-data": "6.20.0",
 		"@wordpress/customize-widgets": "4.12.6",
 		"@wordpress/data": "9.5.2",
 		"@wordpress/data-controls": "3.4.2",
