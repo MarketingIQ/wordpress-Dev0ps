@@ -130,7 +130,7 @@
 		"@wordpress/reusable-blocks": "4.12.4",
 		"@wordpress/rich-text": "6.12.2",
 		"@wordpress/router": "0.4.1",
-		"@wordpress/server-side-render": "4.12.4",
+		"@wordpress/server-side-render": "4.28.0",
 		"@wordpress/shortcode": "3.35.1",
 		"@wordpress/style-engine": "1.18.1",
 		"@wordpress/token-list": "2.35.1",
