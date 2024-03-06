@@ -121,7 +121,7 @@
 		"@wordpress/notices": "4.3.2",
 		"@wordpress/nux": "6.0.0",
 		"@wordpress/plugins": "6.3.4",
-		"@wordpress/preferences": "3.12.4",
+		"@wordpress/preferences": "3.28.1",
 		"@wordpress/preferences-persistence": "1.27.1",
 		"@wordpress/primitives": "3.33.1",
 		"@wordpress/priority-queue": "2.35.1",
