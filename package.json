@@ -112,7 +112,7 @@
 		"@wordpress/html-entities": "3.35.1",
 		"@wordpress/i18n": "4.35.1",
 		"@wordpress/icons": "9.26.2",
-		"@wordpress/interface": "5.12.4",
+		"@wordpress/interface": "5.29.0",
 		"@wordpress/is-shallow-equal": "4.35.1",
 		"@wordpress/keyboard-shortcuts": "4.12.2",
 		"@wordpress/keycodes": "3.35.1",
